@@ -1,5 +1,4 @@
-with open("/mnt/data/README_flask_api.md", "w", encoding="utf-8") as f:
-    f.write("""# 🧠 Deepfake Detection - Flask API
+## 🧠 Deepfake Detection - Flask API
 
 Bu proje, derin öğrenme tabanlı bir model kullanarak yüklenen videolardaki yüzleri analiz eder ve videonun sahte (deepfake) mi yoksa gerçek mi olduğunu tahmin eder. Python ve Flask kullanılarak geliştirilmiştir.
 
