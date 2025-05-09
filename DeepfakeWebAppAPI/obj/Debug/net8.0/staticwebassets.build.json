@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kKTby/HjH2D49ALNd4NR4FE2D3ekJVNyqWp2mShuJrs=",
+  "Source": "DeepfakeWebAppAPI",
+  "BasePath": "_content/DeepfakeWebAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
